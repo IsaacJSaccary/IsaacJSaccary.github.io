@@ -301,7 +301,7 @@ footer {
 
 @media screen and (max-width: 576px) {
     .Column_1 {
-        overflow: auto;
+        overflow: none;
     }
 }
 
